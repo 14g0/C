@@ -1,3 +1,8 @@
+/*
+    O programa, como já diz o nome, inverte todo o texto de um arquivo de texto.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

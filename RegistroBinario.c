@@ -1,3 +1,9 @@
+/*
+    A aplicação visa simular um registro de venda, salvando o
+    todas as vendas num arquivo binário, tanto para exportação
+    quanto para importação.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

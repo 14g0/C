@@ -1,3 +1,11 @@
+/*
+    O programa visa simular uma aplicação de uma lista de contatos
+    para terminal, dispondo um menu onde o usuário realiza as operações
+    e ao finalizar, a lista de contatos pode ser salva em um arquivo de
+    texto, tanto para exportação como importação.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
